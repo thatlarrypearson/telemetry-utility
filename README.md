@@ -1,5 +1,9 @@
 # Telemetry Utility Applications
 
+## **NOTICE: REPOSITORIES INTEGRATED INTO SINGLE REPOSITORY**
+
+This repository along with other related repositories have been integrated into [**Vehicle Telemetry System**, a system for collecting and processing motor vehicle data using included sensor modules.](https://github.com/thatlarrypearson/vehicle-telemetry-system).
+
 Utility applications supporting [telemetry applications](https://github.com/thatlarrypearson?tab=repositories).
 
 ## **UNDER CONSTRUCTION**
